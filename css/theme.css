@@ -559,7 +559,7 @@ canvas.particles-js-canvas-el {
 .personal-image {
   height: 400px;
   width:85%;
-  background-image: linear-gradient(rgba(26, 179, 148,.3) , rgba(26, 179, 148,.5) ), url(/img/profile5.jpg);
+   background-image: linear-gradient(rgba(26, 179, 148, 0.3) , rgba(26, 179, 148, 0.3) ), url('/img/profile5.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 background-position: center;
@@ -1046,7 +1046,7 @@ canvas.particles-js-canvas-el {
 .about-img{
   height: 400px;
   width:85%;
-  background-image: linear-gradient(rgb(26, 179, 148,.3) , rgb(26, 179, 148,.3) ), url(/img/bridge.jpg);
+  background-image: linear-gradient(rgba(26, 179, 148, 0.3) , rgba(26, 179, 148, 0.3) ), url('/img/bridge.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 background-position: center;
